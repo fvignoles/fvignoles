@@ -12,12 +12,6 @@
 
 <h3 align="center">_________________________________</h3>
 
-**fvignoles@gmail.com**
-
-**https://linkedyn/in/fvignoles**
-
-<h3 align="center">_________________________________</h3>
-
 **HTML5 | CSS3 | JavaScript | Bootstrap | ReactJs | Redux | NodeJs | ExpressJs | PostgreSQL | Sequelize |  Git | Github**
 
 <p align="center"> 
