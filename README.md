@@ -1,11 +1,10 @@
 <h1 align="center">Facundo Vignoles</h1>
 
-<h2 align="center">Full Stack Developer</h2>
-<h2 align="center">Contador Público</h2>
+<h2 align="center">Full Stack Developer | Contador Público</h2>
 <h3 align="center">Inglés Intermedio (B1)</h3>
 
 <h3 align="center">_________________________________</h3>
-<h4 align="center">Argentino, nacido el 13 de octubre de 1975, casado con Claudia, padre de Cielo y Martín. Practico Tenis y Remo.</h4> 
+<h4 align="center">Argentino, nacido el 13 de octubre de 1975, estoy casado con Claudia, padre de Cielo y Martín. Practico Tenis y Remo.</h4> 
 <h3 align="center">_________________________________</h3>
 
 <h4 align="center"><a href="fvignoles@gmail.com"</a>fvignoles@gmail.com</h4>
