@@ -3,7 +3,9 @@
 <h3 align="center">Contador Público</h2>
 <h3 align="center">Inglés Intermedio (B1)</h3>
 
-<h4 align="center">Argentino, nacido el 13 de octubre de 1975, casado con Claudia, padre de Cielo y Martín, soy desarrollador full stack y contador público. Nivel de inglés intermedio. Practico Tenis y Remo.</h4>
+<h4 align="center">Argentino, nacido el 13 de octubre de 1975, casado con Claudia, padre de Cielo y Martín</h4> 
+<h4 align="center">Soy desarrollador Full Stack y Contador Público.</h4>
+<h4 align="center">Nivel de inglés intermedio. Practico Tenis y Remo.</h4>
 
 <h3 align="left">Como contactarme :</h3>
 <p align="left">
