@@ -1,13 +1,14 @@
-<h1 align="center">Mi nombre es Facundo Vignoles</h1>
-<h2 align="center">Full Stack Developer</h2>
-<h2 align="center">Contador Público</h2>
-<h2 align="center">Inglés Intermedio (B1)</h2>
+<h1 align="center">Facundo Vignoles</h1>
+<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Contador Público</h2>
+<h3 align="center">Inglés Intermedio (B1)</h3>
 
-<h3 align="center">Argentino, nacido el 13 de octubre de 1975, casado conClaudia, padre de Cielo y Martín, soy desarrollador full stack y contador público. Nivel de inglés intermedio. PracticoTenis y Remo.</h3>
+<h4 align="center">Argentino, nacido el 13 de octubre de 1975, casado con Claudia, padre de Cielo y Martín, soy desarrollador full stack y contador público. Nivel de inglés intermedio. Practico Tenis y Remo.</h4>
 
 <h3 align="left">Como contactarme :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fvignoles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waldo-leonel-vazquez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fvignoles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fvignoles" height="30" width="40" /></a>
+Linkedin
 </p>
 
 **fvignoles@gmail.com**
