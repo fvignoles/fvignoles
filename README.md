@@ -12,7 +12,7 @@
 
 <h3 align="center">_________________________________</h3>
 
-<h4 align="center"><a href="fvignoles@gmail.com"</a></h4>
+<h4 align="center"><a href="fvignoles@gmail.com"</a>fvignoles@gmail.com</h4>
 
 <h3 align="center">_________________________________</h3>
 
