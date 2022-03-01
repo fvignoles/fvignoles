@@ -4,7 +4,7 @@
 <h3 align="center">Inglés Intermedio (B1)</h3>
 
 <h3 align="center">_________________________________</h3>
-<h4 align="center">Argentino, nacido el 13 de octubre de 1975, estoy casado con Claudia, padre de Cielo y Martín. Practico Tenis y Remo.</h4> 
+<h4 align="center">Argentino, nacido en octubre de 1975, estoy casado con Claudia, padre de Cielo y Martín. Practico Tenis y Remo.</h4> 
 <h4 align="center"><a href="fvignoles@gmail.com"</a>fvignoles@gmail.com</h4>
 <h3 align="center">_________________________________</h3>
 
